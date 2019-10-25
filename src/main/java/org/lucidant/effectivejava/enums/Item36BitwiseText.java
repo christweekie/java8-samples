@@ -24,9 +24,14 @@ public class Item36BitwiseText
 
 	// Parameter is bitwise OR of zero or more STYLE_ constants
 
-	public int applyStyles(final int styles)
-	{
-		System.out.println("Value is " + styles);
-		return styles;
-	}
+//	public int applyStyles(final int styles)
+//	{
+//		System.out.println("Value is " + styles);
+//		int x = 5;
+//		x = x >>1;
+//	x.value();
+//	x = !x;
+//	x = ~x;
+//	return styles;
+//	}
 }

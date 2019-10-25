@@ -16,7 +16,7 @@ import java.util.Set;
  */
 public class Item36EnumSetText
 {
-	public enum Style { BOLD, ITALIC, UNDERLINE };
+	protected enum Style { BOLD, ITALIC, UNDERLINE };
 
 	/**
 	 * Still pass the interface although most clients will likely pass EnumSet.
